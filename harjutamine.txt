@@ -1,1 +1,4 @@
 GitHub on versioonihaldus keskkond ja seda kasutavad peamiselt arendajad.
+Mina saan edaspidi kasutada GitHubi kellegiga koostöös suuremate skriptide kirjutamisel.
+
+GitHubi asutasid Tom Preston-Werner, Chris Wanstrath, P.J Hyett ja Scott Chacon aastal 2007 ja see leht avalikustati 2008.
